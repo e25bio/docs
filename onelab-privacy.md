@@ -4,15 +4,18 @@ This Privacy Policy describes how your personal information is collected, used, 
 
 ## PERSONAL INFORMATION WE COLLECT
 
-When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
+When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, hardware, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
 
 We collect Device Information using the following technologies:
 
-    - “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
-    - “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
-    - “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
+- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
+- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
+- “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
 When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
+
+## IMAGE & GEOLOCATION DATA
+The application captures image and geolocation data to provide e25bio the ability improve products. This data is not used in a personally identified context. The application uses functionality meant to prevent the capture of images other than of diagnostic tests. Users should not capture images other than of supplied QR codes and diagnostics tests.
 
 ## HOW DO WE USE YOUR PERSONAL INFORMATION?
 
