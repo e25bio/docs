@@ -12,23 +12,18 @@ We collect Device Information using the following technologies:
 - “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 - “Web beacons,” “tags,” and “pixels” are electronic files used to record information about how you browse the Site.
 
-When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
-
 ## IMAGE & GEOLOCATION DATA
 The application captures image and geolocation data to provide e25bio the ability improve products. This data is not used in a personally identified context. The application uses functionality meant to prevent the capture of images other than of diagnostic tests. Users should not capture images other than of supplied QR codes and diagnostics tests.
 
 ## HOW DO WE USE YOUR PERSONAL INFORMATION?
 
-We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
+We use the Device Information that we collect to help us operate a secure service and more generally to improve and optimize our Site (for example, by generating analytics about how users browse and interact with the Site).
 
 ## SHARING YOUR PERSONAL INFORMATION
 
 We may use Google Analytics to help us understand how our customers use the Site--you can read more about how Google uses your Personal Information here:  https://www.google.com/intl/en/policies/privacy/.  You can also opt-out of Google Analytics here:  https://tools.google.com/dlpage/gaoptout.
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
-
-## DATA RETENTION
-When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
 
 ## MINORS
 The Site is not intended for individuals under the age of 18.
